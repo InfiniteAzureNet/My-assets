@@ -1,8 +1,4 @@
 [
-{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"database_snackrush"},
-{"type":"table","name":"data_product","database":"database_snackrush","data":
-[
 {"id":"1","name_product":"Burger","price":"25000","description":"Burger klasik dengan patty daging sapi panggang, dilengkapi sayuran segar dan saus spesial.","category":"Ala Carte","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Burger.png","availabe":"1","isFeatured":"0"},
 {"id":"2","name_product":"Burger Double Cheese","price":"35000","description":"Burger dengan dua lapis patty daging sapi panggang dan lelehan keju ganda yang creamy.","category":"Ala Carte","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Burger Double Cheese.png","availabe":"1","isFeatured":"0"},
 {"id":"3","name_product":"Burger Chicken","price":"28000","description":"Burger dengan fillet ayam renyah, disajikan bersama sayuran segar dan saus lezat.","category":"Ala Carte","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Burger Chicken.png","availabe":"1","isFeatured":"1"},
@@ -30,6 +26,4 @@
 {"id":"25","name_product":"Paket Komplit Lava II","price":"57000","description":"Paket komplit dengan Ayam Krispi Lava, nasi pulen, burger klasik, dan Coca-Cola dingin yang menyegarkan.","category":"Paket Komplit","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Paket Komplit Lava II.png","availabe":"1","isFeatured":"1"},
 {"id":"26","name_product":"Paket Komplit Lava III","price":"60000","description":"Paket komplit dengan Ayam Krispi Lava, nasi pulen, burger klasik, dan pilihan Float Jeruk atau Red Velvet.","category":"Paket Komplit","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Paket Komplit Lava III.png","availabe":"1","isFeatured":"0"},
 {"id":"27","name_product":"Paket Komplit Lava IV","price":"58000","description":"Paket komplit dengan Ayam Krispi Lava, nasi pulen, Burger Chicken, dan Es Teh manis yang menyegarkan.","category":"Paket Komplit","image":"https:\/\/raw.githubusercontent.com\/InfiniteAzureNet\/My-assets\/main\/SnackRush\/assets\/Paket Komplit Lava IV.png","availabe":"1","isFeatured":"0"}
-]
-}
 ]
