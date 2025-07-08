@@ -10,7 +10,7 @@
   { "month": "Sep", "year": 2022, "sales": 26000 },
   { "month": "Oct", "year": 2022, "sales": 28000 },
   { "month": "Nov", "year": 2022, "sales": 30000 },
-  { "month": "Dec", "year": 2022, "sales": 32000 },
+  { "month": "Dec", "year": 2022, "sales": 2000 },
 
   { "month": "Jan", "year": 2023, "sales": 11000 },
   { "month": "Feb", "year": 2023, "sales": 13000 },
