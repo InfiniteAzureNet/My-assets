@@ -4,7 +4,7 @@
     "year": 2025,
     "sales_data": [
       { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 5 },
-      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 4 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 24 },
       { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 6 },
       { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 8 },
       { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 7 },
