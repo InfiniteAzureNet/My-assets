@@ -1,0 +1,182 @@
+[
+  {
+    "month": "January",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 5 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 4 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 6 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 8 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 7 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 9 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 3 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 2 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 4 }
+    ]
+  },
+  {
+    "month": "February",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 7 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 6 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 5 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 10 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 9 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 11 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 4 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 3 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 5 }
+    ]
+  },
+  {
+    "month": "March",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 6 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 5 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 7 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 12 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 11 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 10 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 5 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 4 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 6 }
+    ]
+  },
+  {
+    "month": "April",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 8 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 7 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 6 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 9 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 8 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 7 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 6 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 5 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 7 }
+    ]
+  },
+  {
+    "month": "May",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 9 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 8 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 10 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 15 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 14 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 13 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 7 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 6 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 8 }
+    ]
+  },
+  {
+    "month": "June",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 10 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 9 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 8 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 11 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 10 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 12 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 5 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 4 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 6 }
+    ]
+  },
+  {
+    "month": "July",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 12 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 11 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 10 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 18 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 17 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 16 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 9 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 8 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 10 }
+    ]
+  },
+  {
+    "month": "August",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 11 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 10 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 9 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 16 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 15 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 14 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 8 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 7 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 9 }
+    ]
+  },
+  {
+    "month": "September",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 8 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 7 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 9 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 13 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 12 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 11 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 6 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 5 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 7 }
+    ]
+  },
+  {
+    "month": "October",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 10 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 9 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 11 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 17 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 16 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 15 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 9 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 8 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 10 }
+    ]
+  },
+  {
+    "month": "November",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 7 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 6 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 8 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 12 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 11 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 10 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 5 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 4 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 6 }
+    ]
+  },
+  {
+    "month": "December",
+    "year": 2025,
+    "sales_data": [
+      { "id_product": 1, "name_product": "CampGo Lite", "quantity_sold": 15 },
+      { "id_product": 2, "name_product": "CampGo Lite", "quantity_sold": 14 },
+      { "id_product": 3, "name_product": "CampGo Lite", "quantity_sold": 13 },
+      { "id_product": 4, "name_product": "CampGo Plus", "quantity_sold": 20 },
+      { "id_product": 5, "name_product": "CampGo Plus", "quantity_sold": 19 },
+      { "id_product": 6, "name_product": "CampGo Plus", "quantity_sold": 18 },
+      { "id_product": 7, "name_product": "CampGo Ultra", "quantity_sold": 10 },
+      { "id_product": 8, "name_product": "CampGo Ultra", "quantity_sold": 9 },
+      { "id_product": 9, "name_product": "CampGo Ultra", "quantity_sold": 11 }
+    ]
+  }
+]
