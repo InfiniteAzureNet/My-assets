@@ -1,0 +1,56 @@
+[
+  {
+    "id_product": 1,
+    "name_product": "CampGo Lite",
+    "color_hex": "#2F4F4F",
+    "current_stock": 25
+  },
+  {
+    "id_product": 2,
+    "name_product": "CampGo Lite",
+    "color_hex": "#8B4513",
+    "current_stock": 20
+  },
+  {
+    "id_product": 3,
+    "name_product": "CampGo Lite",
+    "color_hex": "#696969",
+    "current_stock": 22
+  },
+  {
+    "id_product": 4,
+    "name_product": "CampGo Plus",
+    "color_hex": "#1E90FF",
+    "current_stock": 18
+  },
+  {
+    "id_product": 5,
+    "name_product": "CampGo Plus",
+    "color_hex": "#800000",
+    "current_stock": 15
+  },
+  {
+    "id_product": 6,
+    "name_product": "CampGo Plus",
+    "color_hex": "#FF6347",
+    "current_stock": 16
+  },
+  {
+    "id_product": 7,
+    "name_product": "CampGo Ultra",
+    "color_hex": "#191970",
+    "current_stock": 10
+  },
+  {
+    "id_product": 8,
+    "name_product": "CampGo Ultra",
+    "color_hex": "#708090",
+    "current_stock": 8
+  },
+  {
+    "id_product": 9,
+    "name_product": "CampGo Ultra",
+    "color_hex": "#D2B48C",
+    "current_stock": 7
+  }
+]
