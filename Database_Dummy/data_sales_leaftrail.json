@@ -3,153 +3,510 @@
     "No Order": "ORD-001",
     "Date": "2025-01-15",
     "Name Customer": "Budi Santoso",
-    "Type": "CampGo Lite",
     "Status": "Completed",
     "payment": "Credit Card",
-    "timestamp_payment": "2025-01-15T10:30:00Z"
+    "timestamp_payment": "2025-01-15T10:30:00Z",
+    "items": [
+      {
+        "id_product": 1,
+        "name_product": "CampGo Lite",
+        "color_hex": "#2F4F4F",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-002",
     "Date": "2025-01-22",
     "Name Customer": "Siti Aminah",
-    "Type": "CampGo Plus",
     "Status": "Pending",
     "payment": "Bank Transfer",
-    "timestamp_payment": null
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 4,
+        "name_product": "CampGo Plus",
+        "color_hex": "#1E90FF",
+        "quantity": 1
+      },
+      {
+        "id_product": 6,
+        "name_product": "CampGo Plus",
+        "color_hex": "#FF6347",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-003",
     "Date": "2025-02-01",
     "Name Customer": "Joko Susilo",
-    "Type": "CampGo Ultra",
     "Status": "Completed",
     "payment": "Gopay",
-    "timestamp_payment": "2025-02-01T14:15:00Z"
+    "timestamp_payment": "2025-02-01T14:15:00Z",
+    "items": [
+      {
+        "id_product": 7,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#191970",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-004",
     "Date": "2025-02-10",
     "Name Customer": "Dewi Lestari",
-    "Type": "CampGo Lite",
     "Status": "Completed",
     "payment": "OVO",
-    "timestamp_payment": "2025-02-10T11:00:00Z"
+    "timestamp_payment": "2025-02-10T11:00:00Z",
+    "items": [
+      {
+        "id_product": 2,
+        "name_product": "CampGo Lite",
+        "color_hex": "#8B4513",
+        "quantity": 2
+      }
+    ]
   },
   {
     "No Order": "ORD-005",
     "Date": "2025-03-05",
     "Name Customer": "Agus Salim",
-    "Type": "CampGo Plus",
     "Status": "Completed",
     "payment": "Credit Card",
-    "timestamp_payment": "2025-03-05T09:45:00Z"
+    "timestamp_payment": "2025-03-05T09:45:00Z",
+    "items": [
+      {
+        "id_product": 5,
+        "name_product": "CampGo Plus",
+        "color_hex": "#800000",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-006",
     "Date": "2025-03-18",
     "Name Customer": "Rina Wijaya",
-    "Type": "CampGo Ultra",
     "Status": "Cancelled",
     "payment": "Bank Transfer",
-    "timestamp_payment": null
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 8,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#708090",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-007",
     "Date": "2025-04-02",
     "Name Customer": "Fajar Setiawan",
-    "Type": "CampGo Lite",
     "Status": "Completed",
     "payment": "Gopay",
-    "timestamp_payment": "2025-04-02T16:20:00Z"
+    "timestamp_payment": "2025-04-02T16:20:00Z",
+    "items": [
+      {
+        "id_product": 3,
+        "name_product": "CampGo Lite",
+        "color_hex": "#696969",
+        "quantity": 1
+      },
+      {
+        "id_product": 1,
+        "name_product": "CampGo Lite",
+        "color_hex": "#2F4F4F",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-008",
     "Date": "2025-04-25",
     "Name Customer": "Maya Indah",
-    "Type": "CampGo Plus",
     "Status": "Completed",
     "payment": "OVO",
-    "timestamp_payment": "2025-04-25T13:05:00Z"
+    "timestamp_payment": "2025-04-25T13:05:00Z",
+    "items": [
+      {
+        "id_product": 4,
+        "name_product": "CampGo Plus",
+        "color_hex": "#1E90FF",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-009",
     "Date": "2025-05-10",
     "Name Customer": "Rio Pratama",
-    "Type": "CampGo Ultra",
     "Status": "Completed",
     "payment": "Credit Card",
-    "timestamp_payment": "2025-05-10T08:50:00Z"
+    "timestamp_payment": "2025-05-10T08:50:00Z",
+    "items": [
+      {
+        "id_product": 9,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#D2B48C",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-010",
     "Date": "2025-05-28",
     "Name Customer": "Nina Khairani",
-    "Type": "CampGo Lite",
     "Status": "Pending",
     "payment": "Bank Transfer",
-    "timestamp_payment": null
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 1,
+        "name_product": "CampGo Lite",
+        "color_hex": "#2F4F4F",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-011",
     "Date": "2025-06-07",
     "Name Customer": "Kevin Tan",
-    "Type": "CampGo Plus",
     "Status": "Completed",
     "payment": "Gopay",
-    "timestamp_payment": "2025-06-07T10:10:00Z"
+    "timestamp_payment": "2025-06-07T10:10:00Z",
+    "items": [
+      {
+        "id_product": 6,
+        "name_product": "CampGo Plus",
+        "color_hex": "#FF6347",
+        "quantity": 2
+      }
+    ]
   },
   {
     "No Order": "ORD-012",
     "Date": "2025-06-19",
     "Name Customer": "Putri Maharani",
-    "Type": "CampGo Lite",
     "Status": "Completed",
     "payment": "OVO",
-    "timestamp_payment": "2025-06-19T17:30:00Z"
+    "timestamp_payment": "2025-06-19T17:30:00Z",
+    "items": [
+      {
+        "id_product": 3,
+        "name_product": "CampGo Lite",
+        "color_hex": "#696969",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-013",
     "Date": "2025-07-01",
     "Name Customer": "Raffi Ahmad",
-    "Type": "CampGo Ultra",
     "Status": "Completed",
     "payment": "Credit Card",
-    "timestamp_payment": "2025-07-01T09:00:00Z"
+    "timestamp_payment": "2025-07-01T09:00:00Z",
+    "items": [
+      {
+        "id_product": 7,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#191970",
+        "quantity": 1
+      },
+      {
+        "id_product": 8,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#708090",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-014",
     "Date": "2025-07-10",
     "Name Customer": "Luna Maya",
-    "Type": "CampGo Plus",
     "Status": "Pending",
     "payment": "Bank Transfer",
-    "timestamp_payment": null
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 5,
+        "name_product": "CampGo Plus",
+        "color_hex": "#800000",
+        "quantity": 1
+      }
+    ]
   },
   {
     "No Order": "ORD-015",
     "Date": "2025-07-15",
     "Name Customer": "Denny Cagur",
-    "Type": "CampGo Lite",
     "Status": "Completed",
     "payment": "Gopay",
-    "timestamp_payment": "2025-07-15T11:45:00Z"
+    "timestamp_payment": "2025-07-15T11:45:00Z",
+    "items": [
+      {
+        "id_product": 2,
+        "name_product": "CampGo Lite",
+        "color_hex": "#8B4513",
+        "quantity": 1
+      }
+    ]
   },
-    {
+  {
     "No Order": "ORD-016",
-    "Date": "2025-07-16",
-    "Name Customer": "Denny Cagur",
-    "Type": "CampGo Lite",
-    "Status": "Pending",
-    "payment": "Gopay",
-    "timestamp_payment": "2025-07-15T11:45:00Z"
+    "Date": "2025-07-14",
+    "Name Customer": "Citra Kirana",
+    "Status": "Completed",
+    "payment": "Credit Card",
+    "timestamp_payment": "2025-07-14T09:10:00Z",
+    "items": [
+      {
+        "id_product": 4,
+        "name_product": "CampGo Plus",
+        "color_hex": "#1E90FF",
+        "quantity": 1
+      }
+    ]
   },
-    {
+  {
     "No Order": "ORD-017",
-    "Date": "2025-07-17",
-    "Name Customer": "Denny Cagur",
-    "Type": "CampGo Plus",
+    "Date": "2025-07-14",
+    "Name Customer": "Teuku Wisnu",
     "Status": "Pending",
+    "payment": "Bank Transfer",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 7,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#191970",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-018",
+    "Date": "2025-07-14",
+    "Name Customer": "Nagita Slavina",
+    "Status": "Cancelled",
     "payment": "Gopay",
-    "timestamp_payment": "2025-07-15T11:45:00Z"
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 1,
+        "name_product": "CampGo Lite",
+        "color_hex": "#2F4F4F",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-019",
+    "Date": "2025-07-15",
+    "Name Customer": "Vino G Bastian",
+    "Status": "Completed",
+    "payment": "OVO",
+    "timestamp_payment": "2025-07-15T13:40:00Z",
+    "items": [
+      {
+        "id_product": 2,
+        "name_product": "CampGo Lite",
+        "color_hex": "#8B4513",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-020",
+    "Date": "2025-07-15",
+    "Name Customer": "Marsha Timothy",
+    "Status": "Pending",
+    "payment": "Credit Card",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 5,
+        "name_product": "CampGo Plus",
+        "color_hex": "#800000",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-021",
+    "Date": "2025-07-15",
+    "Name Customer": "Reza Rahadian",
+    "Status": "Completed",
+    "payment": "Gopay",
+    "timestamp_payment": "2025-07-15T15:20:00Z",
+    "items": [
+      {
+        "id_product": 8,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#708090",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-022",
+    "Date": "2025-07-16",
+    "Name Customer": "Dian Sastrowardoyo",
+    "Status": "Pending",
+    "payment": "OVO",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 3,
+        "name_product": "CampGo Lite",
+        "color_hex": "#696969",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-023",
+    "Date": "2025-07-16",
+    "Name Customer": "Nicholas Saputra",
+    "Status": "Completed",
+    "payment": "Bank Transfer",
+    "timestamp_payment": "2025-07-16T10:00:00Z",
+    "items": [
+      {
+        "id_product": 6,
+        "name_product": "CampGo Plus",
+        "color_hex": "#FF6347",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-024",
+    "Date": "2025-07-16",
+    "Name Customer": "Chelsea Islan",
+    "Status": "Cancelled",
+    "payment": "Credit Card",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 9,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#D2B48C",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-025",
+    "Date": "2025-07-17",
+    "Name Customer": "Arifin Putra",
+    "Status": "Completed",
+    "payment": "Gopay",
+    "timestamp_payment": "2025-07-17T11:55:00Z",
+    "items": [
+      {
+        "id_product": 1,
+        "name_product": "CampGo Lite",
+        "color_hex": "#2F4F4F",
+        "quantity": 1
+      },
+      {
+        "id_product": 2,
+        "name_product": "CampGo Lite",
+        "color_hex": "#8B4513",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-026",
+    "Date": "2025-07-17",
+    "Name Customer": "Tara Basro",
+    "Status": "Pending",
+    "payment": "OVO",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 4,
+        "name_product": "CampGo Plus",
+        "color_hex": "#1E90FF",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-027",
+    "Date": "2025-07-18",
+    "Name Customer": "Chicco Jerikho",
+    "Status": "Completed",
+    "payment": "Credit Card",
+    "timestamp_payment": "2025-07-18T14:00:00Z",
+    "items": [
+      {
+        "id_product": 7,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#191970",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-028",
+    "Date": "2025-07-19",
+    "Name Customer": "Raisa Andriana",
+    "Status": "Pending",
+    "payment": "Bank Transfer",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 3,
+        "name_product": "CampGo Lite",
+        "color_hex": "#696969",
+        "quantity": 1
+      },
+      {
+        "id_product": 5,
+        "name_product": "CampGo Plus",
+        "color_hex": "#800000",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-029",
+    "Date": "2025-07-20",
+    "Name Customer": "Hamish Daud",
+    "Status": "Completed",
+    "payment": "Gopay",
+    "timestamp_payment": "2025-07-20T10:30:00Z",
+    "items": [
+      {
+        "id_product": 6,
+        "name_product": "CampGo Plus",
+        "color_hex": "#FF6347",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "No Order": "ORD-030",
+    "Date": "2025-07-20",
+    "Name Customer": "Isyana Sarasvati",
+    "Status": "Cancelled",
+    "payment": "OVO",
+    "timestamp_payment": null,
+    "items": [
+      {
+        "id_product": 9,
+        "name_product": "CampGo Ultra",
+        "color_hex": "#D2B48C",
+        "quantity": 1
+      }
+    ]
   }
 ]
